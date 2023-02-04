@@ -27,3 +27,9 @@ Olá! Sou o Felipe Silveira 😁
 </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </div>
+
+ <div> 
+<h3 align="left">Articles and Contact</h3>
+<a href = "lipemsilveira@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/felipe-silveira-4637701a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+</div>
