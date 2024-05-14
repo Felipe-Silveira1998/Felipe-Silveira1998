@@ -1,6 +1,6 @@
 Olá! Sou o Felipe Silveira 😁
 
-- 🔭 Atualmente trabalho com Cypress, Javascript, Java, Selenium e Cucumber.
+- 🔭 Atualmente trabalho com Cypress e JavaScript/TypeScript. Tendo vasto conhecimento também com Java, Selenium e Cucumber.
 - 🌱 Aberto a novas ideias e conhecimentos.
 - 📫 Contate-me no email: lipemsilveira@hotmail.com
 
