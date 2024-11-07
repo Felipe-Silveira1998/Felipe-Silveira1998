@@ -2,7 +2,7 @@ Olá! Sou o Felipe Silveira 😁
 
 - 🔭 Atualmente trabalho com Cypress e JavaScript/TypeScript. Tendo vasto conhecimento também com Java, Selenium e Cucumber.
 - 🌱 Aberto a novas ideias e conhecimentos.
-- 📫 Contate-me no email: lipemsilveira@hotmail.com
+- 📫 Contate-me no email: felipemedeiros961@gmail.com
 
 
 <div style="display: inline_block"><br>
